@@ -1,0 +1,15 @@
+{
+  "name": "deno-in-npm-base",
+  "version": "1.0.0",
+  "description": "Trying out how Deno @std modules and standard NPM packages work together",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "type": "module",
+  "license": "ISC",
+  "dependencies": {
+    "@std/encoding": "npm:@jsr/std__encoding"
+  }
+}
