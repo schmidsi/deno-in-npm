@@ -13,7 +13,9 @@
 - So `npm instal` works.
 - In order to use this package as a dependency, one has to add `.npmrc` to the files in package.json.
 - Then it can be installed/imported with `npm install deno-in-npm-base`. See [dependent/package.json](./dependent/package.json).
+- It only works with packages that are marked as Node-compatible here: https://jsr.io/@std
 
+<img width="635" alt="Screenshot 2024-12-11 at 19 39 55" src="https://github.com/user-attachments/assets/6fd4dc63-137b-4e69-b694-fe6a2bf4d56d" />
 
 
 ## Resources
