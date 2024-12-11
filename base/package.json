@@ -1,6 +1,6 @@
 {
   "name": "deno-in-npm-base",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Trying out how Deno @std modules and standard NPM packages work together",
   "main": "index.js",
   "scripts": {
