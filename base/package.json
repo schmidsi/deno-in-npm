@@ -1,11 +1,15 @@
 {
   "name": "deno-in-npm-base",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Trying out how Deno @std modules and standard NPM packages work together",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "files": [
+    "index.js",
+    ".npmrc"
+  ],
   "author": "",
   "type": "module",
   "license": "ISC",
